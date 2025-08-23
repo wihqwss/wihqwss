@@ -1,12 +1,12 @@
 <h3 align="left">wihqws</h3>
 
-![](https://komarev.com/ghpvc/?username=wihqws&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=escx01&color=blueviolet)
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wihqws&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wihqws&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=escx01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=escx01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wihqwss/wihqwss/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/escx01/escx01/output/snake.svg" alt="Snake animation" />
 
 ###
