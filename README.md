@@ -1,5 +1,7 @@
 <h3 align="left">wihqws</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 ###
 
 <div align="center">
